@@ -1,0 +1,84 @@
+#content-user{
+    width: 1008px;
+	height: 440px;
+	margin: 0px auto;
+}
+#c-u-left{
+    width: 30%;
+    height: 100%;
+    float: left;
+}
+#c-u-left ul {
+    margin: 0px;
+    padding: 0px;
+}
+#c-u-left ul li{
+    margin-top: 10px;
+}
+#c-u-left ul li a{
+    color: black;
+}
+#c-u-left ul li a:hover{
+    color: #EC1C24;
+    transition: 0.4s;
+}
+#shopping-advice{
+    width: 100%;
+    height: 270px;
+    margin-top: 10px;
+    float: left;
+}
+#shopping-advice-title{
+    width: 100%;
+    height: 40px;
+    float: left;
+    margin-bottom: 10px;
+    line-height: 40px;
+    color: #EC1C24;
+    text-align: center;
+    background-color: #f8f9fa;
+}
+#shopping-advice ul li{
+    margin-top: 14px;
+}
+#shopping-advice ul li b{
+    font-size: 15px;
+}
+#shopping-advice ul li i{
+    margin-right: 4px;
+}
+
+
+/*Nội dung bên phải*/
+#c-u-right{
+    width: 70%;
+    height: 100%;
+    float: left;
+}
+#user-info{
+    width: 96%;
+    height: 172px;
+    float: left;
+    margin-left: 29px;
+    border: 1px solid #dee2e6;
+}
+#user-info h4 {
+    margin-left: 22px;
+}
+#user-info ul {
+    margin: 0px;
+}
+#user-info ul li{
+    list-style-type: disc;
+    margin-bottom: 4px;
+}
+#datatable{
+    width: 96%;
+    height: 170px;
+    float: left;
+    margin-left: 29px;
+    margin-top: 20px;
+}
+#datatable td{
+    padding-left: 28px;
+}

@@ -1,0 +1,37 @@
+#contact-content {
+	width: 996px;
+	min-height: 100px;
+	margin: 0px auto;
+	margin-bottom: 20px;
+	padding-top: 20px;
+	font-family: 'Times New Roman';
+}
+#contact-title {
+	width: 100%;
+	min-height: 10px;
+	text-align: center;
+}
+#contact-title a{
+	color: #000000;
+	font-size: 22px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+#contact-text-main {
+	width: 100%;
+	min-height: 100px;
+	margin: 0px auto;
+	margin-top: 20px;
+}
+#contact-text-main p {
+	color: #000000;
+	font-size: 19px;
+	padding-left: 16px;
+}
+#contact-text-main img{
+	width: 800px;
+	height: 800px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}

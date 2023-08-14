@@ -1,0 +1,29 @@
+#intro-title{
+	width: 1060px;
+	min-height: 2px;
+	margin: 0px auto;
+	line-height: 40px;
+	text-align: center;
+}
+#intro-title a{
+	color: #000000;
+	font-size: 26px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+#intro-content {
+	width: 1008px;
+	min-height: 1px;
+	margin: 0px auto;
+}
+#intro-content p {
+	color: #000000;
+	font-size: 17px;
+}
+#intro-content img{
+	width: 800px;
+	height: 800px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
